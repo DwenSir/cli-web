@@ -1,0 +1,24 @@
+{
+  "class_arr": [
+    {
+      "name" : "cmdb",
+      "index":"1",
+      "pages":[
+        {
+          "name":"登陆",
+          "route": "/"
+        },
+        {
+          "name":"设备列表",
+          "route": "/cmdb"
+        },
+        {
+          "name":"文件导入",
+          "route": "/import"
+        }
+      ]
+    }
+  ],
+  "tools_name":"simple tools",
+  "img_addr" :"img/img.jpg"
+}
